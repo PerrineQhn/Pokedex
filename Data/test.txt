@@ -1,0 +1,2 @@
+1;Bulbizarre;144;False
+4;Salameche;2;False
